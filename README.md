@@ -4,7 +4,7 @@
 
 <h3>Toolkit-thunk<h3>
 
-<img src="toolkit-thunk.gif"/>
+<img src="toolkit-thunk-translate.gif"/>
 
 # Kütüphaneler
 
